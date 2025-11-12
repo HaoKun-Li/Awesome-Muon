@@ -1,6 +1,7 @@
 # Awesome Muon[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repo collects papers, documents, and codes about muon optimizer for anyone who wants to research it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that the repo misses. 
+
 ⭐ indicates a citation count exceeding 5, as of November 12, 2025.
 
 ## Table of Contents
