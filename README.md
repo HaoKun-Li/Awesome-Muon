@@ -33,6 +33,7 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[arXiv](https://arxiv.org/abs/2509.01440)] Benchmarking Optimizers for Large Language Model Pretraining
 - [[arXiv](https://arxiv.org/abs/2507.01598)] Convergence Bound and Critical Batch Size of Muon Optimizer
 - [[arXiv](https://arxiv.org/abs/2502.17410)] COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs
+- [[arXiv](https://arxiv.org/abs/2509.24218)] Conda: Column-Normalized Adam for Training Large Language Models Faster
 - [[arXiv](https://arxiv.org/abs/2510.01377)] DeMuon: A Decentralized Muon for Matrix Optimization over Graphs
 - [[arXiv](https://arxiv.org/abs/2510.02239)] Drop-Muon: Update Less, Converge Faster
 - [[arXiv](https://arxiv.org/abs/2509.18396)] Development of Deep Learning Optimizers: Approaches, Concepts, and Update Rules
@@ -42,6 +43,7 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[arXiv](https://arxiv.org/abs/2509.02046)] Fantastic Pretraining Optimizers and Where to Find Them
 - [[arXiv](https://arxiv.org/abs/2511.04456)] Federated Stochastic Minimax Optimization under Heavy-Tailed Noises
 - [[arXiv](https://arxiv.org/abs/2510.27403)] FedMuon: Accelerating Federated Learning with Matrix Orthogonalization
+- [[arXiv](https://arxiv.org/abs/2509.26337)] FedMuon: Federated Learning with Bias-corrected LMO-based Optimization
 - [[arXiv](https://arxiv.org/abs/2505.13416)] Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)
 - [[arXiv](https://arxiv.org/abs/2510.22980)] How Muon's Spectral Design Benefits Generalization: A Study on Imbalanced Data
 - [[arXiv](https://arxiv.org/abs/2502.04664)] Implicit Bias of Spectral Descent and Muon on Multiclass Separable Data
