@@ -12,6 +12,7 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[NeurIPS](https://openreview.net/forum?id=Ei6IsmxYrb)] How to Scale Second-Order Optimization
 - [[NeurIPS ER Workshop](https://openreview.net/forum?id=NHM0lL832y)] Muon: Training and Trade-offs with Latent Attention and MoE
 - [[High-dimensional Learning Dynamics at ICML Poster](https://openreview.net/forum?id=ppmyFtr9EW)] Towards Understanding Orthogonalization in Muon [[code](https://anonymous.4open.science/r/MuonSBW-23A2)]
+- [[Proceedings of the First BabyLM Workshop](https://aclanthology.org/2025.babylm-main.14/)] Sample-Efficient Language Modeling with Linear Attention and Lightweight Enhancements
 - [[ICLR 2026 Conference Submission](https://openreview.net/forum?id=g2l9bg9DWx)] Achieving low-bit Muon through subspace preservation and grid quantization
 - [[ICLR 2026 Conference Submission](https://openreview.net/forum?id=lJSfxtLpLm)] Convergence of Muon with Newton-Schulz
 - [[ICLR 2026 Conference Submission](https://openreview.net/forum?id=rex7s82Iav)] Error Feedback for Muon and Friends
@@ -28,9 +29,13 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[arXiv](https://arxiv.org/abs/2509.02981)] AdaGrad Meets Muon: Adaptive Stepsizes for Orthogonal Updates
 - [[arXiv](https://arxiv.org/abs/2510.09827)] An Exploration of Non-Euclidean Gradient Descent: Muon and its Many Variants
 - [[arXiv](https://arxiv.org/abs/2503.20762)] ASGO: Adaptive Structured Gradient Optimization
+- [[arXiv](https://arxiv.org/abs/2506.10935)] Accelerating Newton-Schulz Iteration for Orthogonalization via Chebyshev-type Polynomials
+- [[arXiv](https://arxiv.org/abs/2509.24320)] AuON: A Linear-time Alternative to Semi-Orthogonal Momentum Updates
 - [[arXiv](https://arxiv.org/abs/2510.21314)] A Convergence Analysis of Adaptive Optimizers under Floating-point Quantization
 - [[arXiv](https://arxiv.org/abs/2510.19933)] Beyond the Ideal: Analyzing the Inexact Muon Update
+- [[arXiv](https://arxiv.org/abs/2501.18972)] BCAT: A Block Causal Transformer for PDE Foundation Models for Fluid Dynamics
 - [[arXiv](https://arxiv.org/abs/2509.01440)] Benchmarking Optimizers for Large Language Model Pretraining
+- [[arXiv](https://arxiv.org/abs/2509.23500)] Beyond Outliers: A Study of Optimizers Under Quantization
 - [[arXiv](https://arxiv.org/abs/2507.01598)] Convergence Bound and Critical Batch Size of Muon Optimizer
 - [[arXiv](https://arxiv.org/abs/2502.17410)] COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs
 - [[arXiv](https://arxiv.org/abs/2509.24218)] Conda: Column-Normalized Adam for Training Large Language Models Faster
@@ -45,8 +50,10 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[arXiv](https://arxiv.org/abs/2510.27403)] FedMuon: Accelerating Federated Learning with Matrix Orthogonalization
 - [[arXiv](https://arxiv.org/abs/2509.26337)] FedMuon: Federated Learning with Bias-corrected LMO-based Optimization
 - [[arXiv](https://arxiv.org/abs/2505.13416)] Gluon: Making Muon & Scion Great Again! (Bridging Theory and Practice of LMO-based Optimizers for LLMs)
+- [[arXiv](https://arxiv.org/abs/2505.24275)] GradPower: Powering Gradients for Faster Language Model Pre-Training
 - [[arXiv](https://arxiv.org/abs/2510.22980)] How Muon's Spectral Design Benefits Generalization: A Study on Imbalanced Data
 - [[arXiv](https://arxiv.org/abs/2502.04664)] Implicit Bias of Spectral Descent and Muon on Multiclass Separable Data
+- [[arXiv](https://arxiv.org/abs/2505.04005)] Iterative Orthogonalization Scaling Laws
 - [[arXiv](https://arxiv.org/abs/2511.00674)] Isotropic Curvature Model for Understanding Deep Learning Optimization: Is Gradient Orthogonalization Optimal?
 - [[arXiv](https://arxiv.org/abs/2507.20534)] Kimi K2: Open Agentic Intelligence
 - [[arXiv](https://arxiv.org/abs/2509.14562)] LiMuon: Light and Fast Muon Optimizer for Large Models
@@ -59,15 +66,27 @@ This repo collects papers, documents, and codes about muon optimizer for anyone 
 - [[arXiv](https://arxiv.org/abs/2504.16041)] Muon Optimizer Accelerates Grokking
 - [[arXiv](https://arxiv.org/abs/2506.15054)] Muon Optimizes Under Spectral Norm Constraints
 - [[arXiv](https://arxiv.org/abs/2505.23725)] MuLoCo: Muon is a practical inner optimizer for DiLoCo
+- [[arXiv](https://arxiv.org/abs/2510.21800)] MARS-M: When Variance Reduction Meets Matrices
 - [[arXiv](https://arxiv.org/abs/2510.14009)] Noise-Adaptive Layerwise Learning Rates: Accelerating Geometry-Aware Optimization for Deep Neural Network Training
 - [[arXiv](https://arxiv.org/abs/2510.03866)] On Provable Benefits of Muon in Federated Learning
+- [[arXiv](https://arxiv.org/abs/2510.19376)] Optimization Benchmark for Diffusion Models on Dynamical Systems
+- [[arXiv](https://arxiv.org/abs/2506.19697)] Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models
 - [[arXiv](https://arxiv.org/abs/2505.02222)] Practical Efficiency of Muon for Pretraining
 - [[arXiv](https://arxiv.org/abs/2510.06627)] POME: Post Optimization Model Edit via Muon-style Projection [[code](https://github.com/NUS-HPC-AI-Lab/POME)]
 - [[arXiv](https://arxiv.org/abs/2510.03691)] REG: A Regularization Optimizer for Robust Training Dynamics
+- [[arXiv](https://arxiv.org/abs/2507.07101)] Small Batch Size Training for Language Models: When Vanilla SGD Works, and Why Gradient Accumulation Is Wasteful
+- [[arXiv](https://arxiv.org/abs/2509.13081)] Shaping Explanations: Semantic Reward Modeling with Encoder-Only Transformers for GRPO
+- [[arXiv](https://arxiv.org/abs/2505.24749)] SUMO: Subspace-Aware Moment-Orthogonalization for Accelerating Memory-Efficient LLM Training
 - [[arXiv](https://arxiv.org/abs/2505.16932)] The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm
+- [[arXiv](https://arxiv.org/abs/2508.16067)] Training a Foundation Model for Materials on a Budget
+- [[arXiv](https://arxiv.org/abs/2507.13338)] Training Transformers with Enforced Lipschitz Constants
+- [[arXiv](https://arxiv.org/abs/2505.23884)] Test-Time Training Done Right
+- [[arXiv](https://arxiv.org/abs/2502.07529)] Training Deep Learning Models with Norm-Constrained LMOs
+- [[arXiv](https://arxiv.org/abs/2510.09378)] The Potential of Second-Order Optimization for LLMs: A Study with Full Gauss-Newton
 - [[arXiv](https://arxiv.org/abs/2503.12645)] Understanding Gradient Orthogonalization for Deep Learning via Non-Euclidean Trust-Region Optimization
+- [[arXiv](https://arxiv.org/abs/2510.17802)] Unbiased Gradient Low-Rank Projection
 - [[arXiv](https://arxiv.org/abs/2510.25000)] What Really Matters in Matrix-Whitening Optimizers?
-  
+- [[arXiv](https://arxiv.org/abs/2509.25164)] YOLO26: Key Architectural Enhancements and Performance Benchmarking for Real-Time Object Detection
 
 ### 2024
 - [[URL](https://kellerjordan.github.io/posts/muon/)] Muon: An optimizer for hidden layers in neural networks
